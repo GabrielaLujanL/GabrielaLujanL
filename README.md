@@ -16,7 +16,7 @@
 
 ### 📌 Projects
 
-- A repository of my most relevant projects is available [here]
+- A repository of my most relevant projects is available [here](https://github.com/GabrielaLujanL/project-portfolio)
 
 ### 🌱 Personal Interests
 
