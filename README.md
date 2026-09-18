@@ -3,7 +3,7 @@
 
 ### ✨ About Me
 
-- 🎓 B.S in **Data Science and Mathematics Engineering** at **Tec de Monterrey (ITESM)**. Currently an exchange studen at the **University of Arizona**
+- 🎓 B.S in **Data Science and Mathematics Engineering** at **Tec de Monterrey (ITESM)**. Took an exchange semester at the **University of Arizona** where I joined SHPE and SWE. 
 - 📊 Interested in **Time Series Analysis, Data Visualization, Machine Learning, Data Visualization, Statistical Modeling, and Optimization**  
 - 📈 Passionate about using data to solve real-world problems and support data-driven decision-making  
 
