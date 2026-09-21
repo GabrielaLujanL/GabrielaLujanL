@@ -4,8 +4,6 @@
 
 ### Data Analyst · Data Science & Mathematics Engineer
 
-*Turning messy data into decisions someone can actually act on.*
-
 <a href="mailto:gabyllujan@gmail.com"><img src="https://img.shields.io/badge/Email-E75480?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/gabriela-luján-451625376"><img src="https://img.shields.io/badge/LinkedIn-E75480?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/GabrielaLujanL/project-portfolio"><img src="https://img.shields.io/badge/Portfolio-E75480?style=flat-square&logo=github&logoColor=white" /></a>
