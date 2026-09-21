@@ -46,6 +46,13 @@ Multinomial Bayesian network estimating payment probabilities to guide risk-base
 
 <br>
 
+## 🌱 Currently Learning
+- 🗄️ SQL & Database Design
+- 🐙 Git & GitHub workflows
+- ☁️ BI tools (Power BI / Tableau)
+
+<br>
+
 ## 🌸 Beyond Data
 - Dancing · Yoga & pilates · Reading and watching pretty much everything · Board games with family and friends
 
