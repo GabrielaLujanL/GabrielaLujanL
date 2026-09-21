@@ -1,113 +1,77 @@
-# 👋 Hi, I'm Gabriela Luján
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C9BCF&center=true&vCenter=true&width=800&lines=Data+Analyst;Data+Science+%26+Mathematics+Engineer;Time+Series+%26+Statistical+Modeling;Always+learning+something+new" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:gabyllujan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/gabriela-luján-451625376" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=GabrielaLujanL&style=for-the-badge&color=6C9BCF&label=Profile+Views" alt="Profile Views" />
-</p>
-
----
-
-## About Me
-
-I'm a Data Science & Mathematics Engineering student at Tec de Monterrey (ITESM), about to graduate, with an exchange semester at the University of Arizona (Dean's List with Distinction), where I got involved with SHPE and SWE.
-
-I like problems where statistics and real business decisions meet — the kind where a model is only useful if someone downstream can actually act on it. That's what drew me to time series analysis, anomaly detection, and Bayesian modeling: they're all about making uncertainty something you can work with instead of something that gets in the way.
-
-> Fun fact: I've spent as many hours in dance rehearsals as I have debugging code — turns out both reward patience and repetition.
-
----
-
-## Tech Stack
-
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,mysql,git,github,latex,vscode,bash" />
-</a>
+# Gabriela Luján
 
-<p align="center">
-  Time Series Analysis • Machine Learning • Bayesian Modeling • Statistical Computing • SQL • Data Visualization
-</p>
+### Data Analyst · Data Science & Mathematics Engineer
+
+*Turning messy data into decisions someone can actually act on.*
+
+<a href="mailto:gabyllujan@gmail.com"><img src="https://img.shields.io/badge/Email-E75480?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gabriela-luján-451625376"><img src="https://img.shields.io/badge/LinkedIn-E75480?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/GabrielaLujanL/project-portfolio"><img src="https://img.shields.io/badge/Portfolio-E75480?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=GabrielaLujanL&style=flat-square&color=E75480&label=Views" />
 
 </div>
 
----
+<br>
 
-## Featured Work
+## 🎓 Quick Facts
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| | |
+|---|---|
+| 🏫 **Education** | B.S. Data Science & Mathematics Engineering, Tec de Monterrey · GPA 96.27/100 |
+| ✈️ **Exchange** | University of Arizona (Fall 2025) — Dean's List with Distinction |
+| 📍 **Based in** | Guadalajara, Mexico |
+| 🎯 **Focused on** | Time series, anomaly detection, and Bayesian modeling for real business decisions |
+| 🌱 **Learning now** | SQL, Git/GitHub workflows, BI tools |
 
-### 🔎 AERSA × Talos — Anomaly Detection
+<br>
 
-**Capstone Project, 6-person team**
+## 🛠️ Skills
 
-`Python` `SQL` `Scikit-Learn`
+| Category | Stack |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-E75480?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-E75480?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-E75480?style=flat-square&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-E75480?style=flat-square&logo=latex&logoColor=white) |
+| **ML & Data Science** | Time Series Analysis · Isolation Forest · Bayesian Networks · Markov Chains · Monte Carlo Methods · Statistical Modeling |
+| **Libraries** | pandas · NumPy · scikit-learn · statsmodels · TensorFlow · tidyverse · ggplot2 |
+| **Visualization** | matplotlib · seaborn · plotly · flexdashboard |
+| **Tools** | Jupyter · RStudio · Git/GitHub · Excel |
 
-Built a two-stage anomaly detection system for a restaurant ERP platform, auditing inventory discrepancies and purchase-price anomalies across 1.7M+ transaction records.
+<br>
 
-**Highlights**
-- Isolation Forest tuned via Jaccard stability & Cohen's d
-- Semi-supervised classifier that learns from auditor feedback
-- IQR-based regional price-anomaly detection
-- Interactive multi-tab auditor dashboard
+## 📂 Projects
 
-[→ View repo](https://github.com/GabrielaLujanL/ERP-Anomalies-Detection)
+**[AERSA × Talos — Inventory & Price Anomaly Detection](https://github.com/GabrielaLujanL/ERP-Anomalies-Detection)**
+Two-stage anomaly detection system for a restaurant ERP platform — 1.7M+ transaction records, Isolation Forest + semi-supervised auditor feedback loop, interactive dashboard. `Python` `SQL` `Scikit-Learn`
 
-</td>
-<td width="50%" valign="top">
+**[Time Series Forecasting — Mexico's Unemployment Rate](https://github.com/GabrielaLujanL/project-portfolio)**
+Box–Jenkins methodology (ARIMA/SARIMA) on 20 years of INEGI/ENOE data, with ADF testing and STL decomposition. `Python`
 
-### 🧠 Human Activity Recognition Research
+**[Markov Chains — Customer Behavior Modeling](https://github.com/GabrielaLujanL/project-portfolio)**
+Modeled product state transitions to predict sales trends and long-term portfolio stability. `R`
 
-**Contributor**
+**[Bayesian Networks — Debt Recovery Segmentation](https://github.com/GabrielaLujanL/project-portfolio)**
+Multinomial Bayesian network estimating payment probabilities to guide risk-based debt recovery strategies. `Python` `R`
 
-`Python` `R` `Feature Selection`
+<br>
 
-Contributed to an ongoing research project on metaheuristic feature selection for wearable activity recognition, supporting experiment design and statistical validation.
+## 📊 GitHub Stats
 
-**More projects**
-- 📉 Time Series Forecasting — Mexico's Unemployment Rate
-- 🔗 Markov Chains — Customer Behavior Modeling
-- 📊 Bayesian Networks — Debt Recovery Segmentation
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielaLujanL&show_icons=true&hide_border=true&title_color=E75480&icon_color=E75480&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaLujanL&layout=compact&hide_border=true&title_color=E75480&text_color=333333" />
+</div>
 
-[→ Full project portfolio](https://github.com/GabrielaLujanL/project-portfolio)
+<br>
 
-</td>
-</tr>
-</table>
+## 🌸 Beyond Data
 
----
+Dancing · Yoga & pilates · Reading and watching pretty much everything · Board games with family and friends
 
-## Currently Learning
+<br>
 
-* 🗄️ SQL & Database Design
-* 🐙 Git & GitHub workflows
-* ☁️ Cloud & BI tools (Power BI / Tableau)
-* 🧮 Applied statistics for business decisions
+<div align="center">
 
----
+📧 <a href="mailto:gabyllujan@gmail.com">gabyllujan@gmail.com</a> &nbsp;·&nbsp; 🎓 <a href="mailto:A01254904@tec.mx">A01254904@tec.mx</a> &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/gabriela-luján-451625376">LinkedIn</a>
 
-## Outside of Data
-
-- 💃 Dancing — my longest-running hobby
-- 🧘‍♀️ Yoga & pilates
-- 📚 Reading, and watching pretty much anything on screen
-- 🎲 Board games with family and friends
-
----
-
-## Connect with Me
-
-<p align="center">
-  <a href="mailto:gabyllujan@gmail.com"><img src="https://img.shields.io/badge/Personal-gabyllujan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:A01254904@tec.mx"><img src="https://img.shields.io/badge/School-A01254904%40tec.mx-0076A8?style=flat-square&logo=maildotru&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabriela-luján-451625376"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+</div>
