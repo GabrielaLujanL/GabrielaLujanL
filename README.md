@@ -4,10 +4,12 @@
 
 ### Data Analyst · Data Science & Mathematics Engineer
 
-<a href="mailto:gabyllujan@gmail.com"><img src="https://img.shields.io/badge/Email-E75480?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/gabriela-luján-451625376"><img src="https://img.shields.io/badge/LinkedIn-E75480?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/GabrielaLujanL/project-portfolio"><img src="https://img.shields.io/badge/Portfolio-E75480?style=flat-square&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=GabrielaLujanL&style=flat-square&color=E75480&label=Views" />
+*Turning messy data into decisions someone can actually act on.*
+
+<a href="mailto:gabyllujan@gmail.com"><img src="https://img.shields.io/badge/Email-F5A9C4?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gabriela-luján-451625376"><img src="https://img.shields.io/badge/LinkedIn-F5A9C4?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/GabrielaLujanL/project-portfolio"><img src="https://img.shields.io/badge/Portfolio-F5A9C4?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=GabrielaLujanL&style=flat-square&color=F5A9C4&label=Views" />
 
 </div>
 
@@ -29,7 +31,7 @@
 
 | Category | Stack |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-E75480?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-E75480?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-E75480?style=flat-square&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-E75480?style=flat-square&logo=latex&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-F5A9C4?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-F5A9C4?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-F5A9C4?style=flat-square&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-F5A9C4?style=flat-square&logo=latex&logoColor=white) |
 | **ML & Data Science** | Time Series Analysis · Isolation Forest · Bayesian Networks · Markov Chains · Monte Carlo Methods · Statistical Modeling |
 | **Libraries** | pandas · NumPy · scikit-learn · statsmodels · TensorFlow · tidyverse · ggplot2 |
 | **Visualization** | matplotlib · seaborn · plotly · flexdashboard |
@@ -56,8 +58,8 @@ Multinomial Bayesian network estimating payment probabilities to guide risk-base
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielaLujanL&show_icons=true&hide_border=true&title_color=E75480&icon_color=E75480&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaLujanL&layout=compact&hide_border=true&title_color=E75480&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielaLujanL&show_icons=true&hide_border=true&title_color=F5A9C4&icon_color=F5A9C4&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaLujanL&layout=compact&hide_border=true&title_color=F5A9C4&text_color=333333" />
 </div>
 
 <br>
