@@ -27,20 +27,11 @@
 
 ## 🛠️ Skills
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-F5A9C4?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-F5A9C4?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-F5A9C4?style=flat-square&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-F5A9C4?style=flat-square&logo=latex&logoColor=white)
-
-**ML & Data Science**
-Time Series Analysis · Isolation Forest · Bayesian Networks · Markov Chains · Monte Carlo Methods · Statistical Modeling
-
-**Libraries**
-pandas · NumPy · scikit-learn · statsmodels · TensorFlow · tidyverse · ggplot2
-
-**Visualization**
-matplotlib · seaborn · plotly · flexdashboard
-
-**Tools**
-Jupyter · RStudio · Git/GitHub · Excel
+- **Languages** — ![Python](https://img.shields.io/badge/-Python-F5A9C4?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-F5A9C4?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-F5A9C4?style=flat-square&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-F5A9C4?style=flat-square&logo=latex&logoColor=white)
+- **ML & Data Science** — Time Series Analysis · Isolation Forest · Bayesian Networks · Markov Chains · Monte Carlo Methods · Statistical Modeling
+- **Libraries** — pandas · NumPy · scikit-learn · statsmodels · TensorFlow · tidyverse · ggplot2
+- **Visualization** — matplotlib · seaborn · plotly · flexdashboard
+- **Tools** — Jupyter · RStudio · Git/GitHub · Excel
 
 <br>
 
@@ -57,15 +48,6 @@ Modeled product state transitions to predict sales trends and long-term portfoli
 
 **[Bayesian Networks — Debt Recovery Segmentation](https://github.com/GabrielaLujanL/project-portfolio)**
 Multinomial Bayesian network estimating payment probabilities to guide risk-based debt recovery strategies. `Python` `R`
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielaLujanL&show_icons=true&hide_border=true&title_color=F5A9C4&icon_color=F5A9C4&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaLujanL&layout=compact&hide_border=true&title_color=F5A9C4&text_color=333333" />
-</div>
 
 <br>
 
