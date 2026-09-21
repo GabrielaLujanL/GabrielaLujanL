@@ -4,7 +4,7 @@
 
 ### Data Analyst · Data Science & Mathematics Engineer
 
-<a href="mailto:gabyllujan@gmail.com"><img src="https://img.shields.io/badge/Email-F5A9C4?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:gabrielalujanl@.com"><img src="https://img.shields.io/badge/Email-F5A9C4?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/gabriela-luján-451625376"><img src="https://img.shields.io/badge/LinkedIn-F5A9C4?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/GabrielaLujanL/project-portfolio"><img src="https://img.shields.io/badge/Portfolio-F5A9C4?style=flat-square&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=GabrielaLujanL&style=flat-square&color=F5A9C4&label=Views" />
@@ -60,6 +60,6 @@ Multinomial Bayesian network estimating payment probabilities to guide risk-base
 
 <div align="center">
 
-📧 <a href="mailto:gabyllujan@gmail.com">gabyllujan@gmail.com</a> &nbsp;·&nbsp; 🎓 <a href="mailto:A01254904@tec.mx">A01254904@tec.mx</a> &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/gabriela-luján-451625376">LinkedIn</a>
+📧 <a href="mailto:gabrielalujanl@outlookcom">gabrielalujanl@outlook.com</a> &nbsp;·&nbsp; 🎓 <a href="mailto:A01254904@exatec.tec.mx">A01254904@exatec.tec.mx</a> &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/gabriela-luján-451625376">LinkedIn</a>
 
 </div>
