@@ -35,23 +35,19 @@
 
 ## 📂 Projects
 
-**[AERSA × Talos — Inventory & Price Anomaly Detection](https://github.com/GabrielaLujanL/ERP-Anomalies-Detection)**
+- **[AERSA × Talos — Inventory & Price Anomaly Detection](https://github.com/GabrielaLujanL/ERP-Anomalies-Detection-Simulated)**
 Two-stage anomaly detection system for a restaurant ERP platform — 1.7M+ transaction records, Isolation Forest + semi-supervised auditor feedback loop, interactive dashboard. `Python` `SQL` `Scikit-Learn`
-
-**[Time Series Forecasting — Mexico's Unemployment Rate](https://github.com/GabrielaLujanL/project-portfolio)**
+- **[Time Series Forecasting — Mexico's Unemployment Rate](https://github.com/GabrielaLujanL/project-portfolio)**
 Box–Jenkins methodology (ARIMA/SARIMA) on 20 years of INEGI/ENOE data, with ADF testing and STL decomposition. `Python`
-
-**[Markov Chains — Customer Behavior Modeling](https://github.com/GabrielaLujanL/project-portfolio)**
+- **[Markov Chains — Customer Behavior Modeling](https://github.com/GabrielaLujanL/project-portfolio)**
 Modeled product state transitions to predict sales trends and long-term portfolio stability. `R`
-
-**[Bayesian Networks — Debt Recovery Segmentation](https://github.com/GabrielaLujanL/project-portfolio)**
+- **[Bayesian Networks — Debt Recovery Segmentation](https://github.com/GabrielaLujanL/project-portfolio)**
 Multinomial Bayesian network estimating payment probabilities to guide risk-based debt recovery strategies. `Python` `R`
 
 <br>
 
 ## 🌸 Beyond Data
-
-Dancing · Yoga & pilates · Reading and watching pretty much everything · Board games with family and friends
+- Dancing · Yoga & pilates · Reading and watching pretty much everything · Board games with family and friends
 
 <br>
 
