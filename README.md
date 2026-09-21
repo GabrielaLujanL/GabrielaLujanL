@@ -17,25 +17,30 @@
 
 ## 🎓 Quick Facts
 
-| | |
-|---|---|
-| 🏫 **Education** | B.S. Data Science & Mathematics Engineering, Tec de Monterrey · GPA 96.27/100 |
-| ✈️ **Exchange** | University of Arizona (Fall 2025) — Dean's List with Distinction |
-| 📍 **Based in** | Guadalajara, Mexico |
-| 🎯 **Focused on** | Time series, anomaly detection, and Bayesian modeling for real business decisions |
-| 🌱 **Learning now** | SQL, Git/GitHub workflows, BI tools |
+- 🏫 **Education** — B.S. Data Science & Mathematics Engineering, Tec de Monterrey · GPA 96.27/100
+- ✈️ **Exchange** — University of Arizona (Fall 2025), Dean's List with Distinction
+- 📍 **Based in** — Guadalajara, Mexico
+- 🎯 **Focused on** — Time series, anomaly detection, and Bayesian modeling for real business decisions
+- 🌱 **Learning now** — SQL, Git/GitHub workflows, BI tools
 
 <br>
 
 ## 🛠️ Skills
 
-| Category | Stack |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-F5A9C4?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-F5A9C4?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-F5A9C4?style=flat-square&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-F5A9C4?style=flat-square&logo=latex&logoColor=white) |
-| **ML & Data Science** | Time Series Analysis · Isolation Forest · Bayesian Networks · Markov Chains · Monte Carlo Methods · Statistical Modeling |
-| **Libraries** | pandas · NumPy · scikit-learn · statsmodels · TensorFlow · tidyverse · ggplot2 |
-| **Visualization** | matplotlib · seaborn · plotly · flexdashboard |
-| **Tools** | Jupyter · RStudio · Git/GitHub · Excel |
+**Languages**
+![Python](https://img.shields.io/badge/-Python-F5A9C4?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-F5A9C4?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-F5A9C4?style=flat-square&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-F5A9C4?style=flat-square&logo=latex&logoColor=white)
+
+**ML & Data Science**
+Time Series Analysis · Isolation Forest · Bayesian Networks · Markov Chains · Monte Carlo Methods · Statistical Modeling
+
+**Libraries**
+pandas · NumPy · scikit-learn · statsmodels · TensorFlow · tidyverse · ggplot2
+
+**Visualization**
+matplotlib · seaborn · plotly · flexdashboard
+
+**Tools**
+Jupyter · RStudio · Git/GitHub · Excel
 
 <br>
 
